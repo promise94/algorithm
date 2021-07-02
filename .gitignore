@@ -1,3 +1,17 @@
+# OS or IDE folders adn files
+.idea
+.vscode
+.DS_Store
+*.suo
+*.ntvs*
+
+# Log files
+log/
+
+# node
+/node_modules
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
